@@ -9,4 +9,6 @@ Tit, is pin compatible with Arduino Pro Mini, the chip Atmega328pb is software c
 
 Follow the project at hackaday.io
 (https://hackaday.io/project/11558-tit)
+Detailed introduction and setup guide at ExploreEmbedded.com
+(http://exploreembedded.com/wiki/Tit,_a_supercharged_Arduino_Pro_Mini_with_Atmega328pb)
 
